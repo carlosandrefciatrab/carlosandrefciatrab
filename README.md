@@ -40,7 +40,6 @@ Tudo o que construo vai para produção: VPS própria, Docker, Caddy, HTTPS, bac
 | Projeto | O que é |
 |---|---|
 | **SIGERS** | Sistema de Gestão de Regulação e Saneamento — SaaS para agências reguladoras de saneamento (protocolo, tarifas, fiscalização e resoluções). Piloto previsto na ARSARP e ARSAN. |
-| **NEUROPLUS** | Plataforma de atendimento multidisciplinar a neurodivergentes (foco em TEA) para o Instituto Plus. |
 
 ### Stack
 
